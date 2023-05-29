@@ -35,6 +35,16 @@ function self_consistency(prompt, question, language_model, num_samples):
 ```
 
 
+
+## TODO:
+
+Create language model class with generate chains of thoughts prompt
+
+Create evaluations with popular evaluations
+
+Integrate huggingface transformers and other models
+
+
 ## Contribute
 We welcome contributions to improve the Chain of Thought with Self-Consistency method. To contribute, please follow these steps:
 
